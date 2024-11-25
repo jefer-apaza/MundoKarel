@@ -1,7 +1,4 @@
 # MundoKarel
-Aquí tienes un ejemplo de introducción para tu archivo `README.md` para el repositorio **"mundoKarel"**. Puedes personalizarla según el enfoque y los detalles específicos de tu proyecto:
-
----
 
 # Introducción
 
@@ -21,6 +18,3 @@ Bienvenido al repositorio **mundoKarel**, un proyecto desarrollado para aprender
 
 Para más detalles, consulta las secciones correspondientes en este repositorio.
 
----
-
-Si tienes más detalles específicos o el enfoque de tu proyecto es distinto, puedo ajustar el texto. ¡Solo avísame!
